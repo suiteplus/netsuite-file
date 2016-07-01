@@ -1,0 +1,19 @@
+{
+  "name": "netsuite-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/files.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkrueger/netsuite-file.git"
+  },
+  "author": "Willian Krueger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wkrueger/netsuite-file/issues"
+  },
+  "homepage": "https://github.com/wkrueger/netsuite-file#readme"
+}
