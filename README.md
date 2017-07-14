@@ -1,3 +1,6 @@
+note: Abandoned/incomplete.
+The initial idea was to split netsuite helpers into many modules.
+
 # netsuite-file
 
 File cabinet helpers for netsuite (suitescript 1.0).
